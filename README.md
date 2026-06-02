@@ -6,15 +6,6 @@ This project is inspired by the elegant, screwless design of [this mini table fo
 
 ---
 
-## Planned Features & Roadmap
-While the core arena is designed, the following features are planned for future updates:
-* **Mechanical Scoreboard:** A flip-style or rotating mechanical scoreboard to track goals.
-    <img width="801" height="505" alt="Scoreboard Concept" src="https://github.com/user-attachments/assets/7e7ddd57-798a-4d90-92f9-c3a436dd0b9a" />
-* **Ball Return & Dispenser:** A billiard-style ball collection system and a rotary dispenser (a "pay-to-win" or coin-op style drop mechanism).
-    <img width="231" height="170" alt="Dispenser Concept" src="https://github.com/user-attachments/assets/3d883db3-f750-48f2-920a-3ac3d130e7dd" />
-
----
-
 ## The Core Mechanism (Flippers)
 
 The primary interactive element of the game is the mechanical gate (flipper) used to strike the plastic ball. It operates using a spring-loaded rack and pinion mechanism.
